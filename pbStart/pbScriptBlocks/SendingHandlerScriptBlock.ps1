@@ -96,8 +96,8 @@ try {
     Import-Module "$appPath\pbModules\Messages\SendVideo.ps1"
     Import-Module "$appPath\pbModules\Messages\SendDocument.ps1"
     Import-Module "$appPath\pbModules\Messages\SendAudio.ps1"
-    Import-Module "$appPath\pbModules\Messages\SendVoice.ps1"
-    Import-Module "$appPath\pbModules\Messages\SendMediaGroup.ps1"
+    # Import-Module "$appPath\pbModules\Messages\SendVoice.ps1"
+    # Import-Module "$appPath\pbModules\Messages\SendMediaGroup.ps1"
 
     # Модули редактирования сообщений
     Import-Module "$appPath\pbModules\Messages\EditMessageText.ps1"
