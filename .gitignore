@@ -1,5 +1,5 @@
 # Локальные конфигурации и секреты
-/pbSettings/BotSettings.ps1
+# /pbSettings/BotSettings.ps1
 /pbSettings/BotSettings.json
 /pbSettings/BotSettingsTest.ps1
 

@@ -158,7 +158,7 @@ function New-CheckStaff {
         
         } | ConvertTo-Json -Depth 5 -Compress
 
-        Write-Verbose "CheckStaff body= $body" 
+        # Write-Verbose "CheckStaff body= $body" 
 
         $credAPI = Get-Secret -Vault domainPdb apiquery -AsPlainText
         $credsBase64 = "apiquery:$credAPI"
