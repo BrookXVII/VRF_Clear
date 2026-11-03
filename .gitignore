@@ -1,0 +1,16 @@
+# Локальные конфигурации и секреты
+/pbSettings/BotSettings.ps1
+/pbSettings/BotSettings.json
+/pbSettings/BotSettingsTest.ps1
+
+# Данные пользователей, группы, резервные копии и отчёты
+/pbAssets/queueUsersHash*.json
+/pbAssets/queueGroupsHash*.json
+/pbAssets/*.csv
+
+# Журналы и ротируемые файлы
+/pbLogs/*
+!/pbLogs/.gitignore
+
+# Временные файлы записи настроек
+*.pending

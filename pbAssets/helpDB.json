@@ -1,0 +1,32 @@
+﻿{
+    "a":  {
+              "description":  "Выбрать чат, получить приглашение и перейти в группу. В режиме одного окна не запутаешься.",
+              "head":  "Всё просто",
+              "image":  "https://habrastorage.org/webt/yo/0i/au/yo0iausjatuyfwy-fgrsmc5wxqu.jpeg"
+          },
+    "b":  {
+              "description":  "Здесь расположен список групп для прохождения верификации. Выбирайте нужную и следуйте подсказкам.",
+              "head":  "Выбрать чат",
+              "image":  "https://habrastorage.org/webt/yv/gx/_i/yvgx_izx0zg74kzmhsrvdfkaxv0.jpeg"
+          },
+    "c":  {
+              "description":  "Экран отображает название и описание группы, а так же статус верификации и подсказку по действиям.",
+              "head":  "Верификация в группе",
+              "image":  "https://habrastorage.org/webt/2u/nr/yt/2unrytrx-rib7t9ab_0ce7rhj_y.jpeg"
+          },
+    "d":  {
+              "description":  "Если верификация еще не пройдена для выбранного чата, то на экране будет доступна одноименная кнопка.",
+              "head":  "Получить приглашение",
+              "image":  "https://habrastorage.org/webt/dg/6s/9a/dg6s9ahjickmibfmqfotdudlct8.jpeg"
+          },
+    "e":  {
+              "description":  "Приглашение одноразовое и доступно только Вам.",
+              "head":  "Ограничения",
+              "image":  "https://habrastorage.org/webt/xr/pd/x3/xrpdx3d2nm4dfvggaarqhfuho9q.jpeg"
+          },
+    "f":  {
+              "description":  "Если что-то не работает, обратитесь в службу поддержки support@example.invalid.",
+              "head":  "Помощь",
+              "image":  "https://habrastorage.org/webt/vi/ow/sk/viowskfakl_sjobuzkr_a17hkh8.jpeg"
+          }
+}
