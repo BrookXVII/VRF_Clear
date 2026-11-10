@@ -6,7 +6,7 @@
     gateID = "AAFfvsdfvsdfvBW5mOGf357sUg8gDvY2qNA";
     botNum = "1234234235";
     botCreator = "1231231233";
-    banIfNotVerified = $true;
+    banIfNotVerified = $false;
     alertGroup = "-1002342342345";
     eulaUrl = "https://example.invalid/privacy";
     logging = @{
@@ -44,7 +44,8 @@
     getUpdateSleepTime = 100;
     verifiTtl = 1800;
     blockPeriod = 600;
-    botRun = $true
+    botRun = $true;
+    checkStaffRun = $false
 }
 
 $botSettings | ConvertTo-Json | Out-File -FilePath c:\Projects\VerifyBot\pbSettings\BotSettings.json
